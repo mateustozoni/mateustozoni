@@ -1,16 +1,14 @@
-### Hi there 👋
+<h2> Hey! Sou Mateus. <img src="https://github.com/mateustozoni/mateustozoni/blob/master/Hi.gif" width="25"></h2>
 
-<!--
-**mateustozoni/mateustozoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 Sobre Mim </h3>
 
-Here are some ideas to get you started:
+- 🔭 &nbsp; Estou estudando atualmente React e React Native
+- 🤔 &nbsp; Explorando novas tecnologias e testando coisas o tempo todo
+- 🎓 &nbsp; Cursando Eng. de Software na PUC Campinas
+- 💼 &nbsp; Trabalho na UAUBox como Engenheiro de Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech</h3>
+
+- 💻 &nbsp; JS, TS, NodeJS, PHP (faz tempo que não uso)
+- 🌐 &nbsp; HTML | CSS | JavaScript | React (aprendendo ainda haha)
+- 🛢 &nbsp; SQL | NoSQL (MongoDB)
