@@ -6,6 +6,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e testando coisas o tempo todo
 - 🎓 &nbsp; Cursando Eng. de Software na PUC Campinas
 - 💼 &nbsp; Trabalho na UAUBox como Engenheiro de Software
+- 💼 &nbsp; Fundador da <a href="https://petus.app/">Petus</a>
 
 <h3>🛠 Tech</h3>
 
