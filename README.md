@@ -11,5 +11,5 @@
 <h3>🛠 Tech</h3>
 
 - 💻 &nbsp; JS, TS, NodeJS, PHP (faz tempo que não uso)
-- 🌐 &nbsp; HTML | CSS | JavaScript | React (aprendendo ainda haha)
-- 🛢 &nbsp; SQL | NoSQL (MongoDB)
+- 🌐 &nbsp; HTML | CSS | JavaScript | React (aprendendo ainda)
+- 🛢 &nbsp; SQL (Uso mais Postgres) | NoSQL (MongoDB)
