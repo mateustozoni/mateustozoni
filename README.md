@@ -1,4 +1,4 @@
-<h2> Hey! Sou Mateus. <img src="https://github.com/mateustozoni/mateustozoni/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey! Sou Mateus. <img src="https://github.com/mateustozoni/mateustozoni/blob/main/Hi.gif" width="25"></h2>
 
 <h3> 👨🏻‍💻 Sobre Mim </h3>
 
