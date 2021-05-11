@@ -13,3 +13,7 @@
 - 💻 &nbsp; JS, TS, NodeJS, PHP (faz tempo que não uso)
 - 🌐 &nbsp; HTML | CSS | JavaScript | React (aprendendo ainda)
 - 🛢 &nbsp; SQL (Uso mais Postgres) | NoSQL (MongoDB)
+
+<h3>💻 Redes</h3>
+
+ - [LinkedIn](https://www.linkedin.com/in/mateus-tozoni-229b8b145/)
