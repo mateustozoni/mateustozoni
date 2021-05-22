@@ -1,3 +1,5 @@
+<img src="https://github.com/mateustozoni/mateustozoni/blob/main/me.png" width="100%">
+
 <h2> Hey! Sou Mateus. <img src="https://github.com/mateustozoni/mateustozoni/blob/main/Hi.gif" width="25"></h2>
 
 <h3> 👨🏻‍💻 Sobre Mim </h3>
@@ -10,10 +12,12 @@
 
 <h3>🛠 Tech</h3>
 
-- 💻 &nbsp; JS, TS, NodeJS, PHP (faz tempo que não uso)
+- 💻 &nbsp; JS, TS, NodeJS, PHP
 - 🌐 &nbsp; HTML | CSS | JavaScript | React (aprendendo ainda)
 - 🛢 &nbsp; SQL (Uso mais Postgres) | NoSQL (MongoDB)
 
 <h3>💻 Redes</h3>
 
- - [LinkedIn](https://www.linkedin.com/in/mateus-tozoni-229b8b145/)
+ - [LinkedIn](https://www.linkedin.com/in/mateusptz/)
+ - [Instagram](https://www.instagram.com/mateusptz/)
+ - Discord: **MateusPTZ#9491**
