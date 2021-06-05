@@ -21,3 +21,7 @@
  - [LinkedIn](https://www.linkedin.com/in/mateusptz/)
  - [Instagram](https://www.instagram.com/mateusptz/)
  - Discord: **MateusPTZ#9491**
+
+<h3> Projetos Atuais (Estudos) </h3>
+ - EasyRH API (Sistema de RH simples | Projeto Integrador PUCC)
+   Acesse [clicando aqui](https://github.com/VULGOTeam/easyrh-final)
