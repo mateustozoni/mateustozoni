@@ -24,4 +24,4 @@
 
 <h3> Projetos Atuais (Estudos) </h3>
  - EasyRH API (Sistema de RH simples | Projeto Integrador PUCC)
-   Acesse [clicando aqui](https://github.com/VULGOTeam/easyrh-final)
+   https://github.com/VULGOTeam/easyrh-final
