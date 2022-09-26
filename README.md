@@ -22,6 +22,8 @@
  - [Instagram](https://www.instagram.com/mateusptz/)
  - Discord: **MateusPTZ#9491**
 
-<h3> Projetos Atuais (Estudos) </h3>
+<h3> Projetos </h3>
  - EasyRH API (Sistema de RH simples | Projeto Integrador PUCC)
    https://github.com/VULGOTeam/easyrh-final
+ - DANFE Simplificada (Gerador de DANFE Simplificada a partir de uma nota de produtos XML)
+   https://github.com/mateustozoni/danfe-simplificada
