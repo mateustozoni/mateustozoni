@@ -4,17 +4,17 @@
 
 <h3> 👨🏻‍💻 Sobre Mim </h3>
 
-- 🔭 &nbsp; Estou estudando atualmente React e React Native
+- 🔭 &nbsp; Estou atualmente trabalhando com Python, NodeJS (TypeScript)
 - 🤔 &nbsp; Explorando novas tecnologias e testando coisas o tempo todo
 - 🎓 &nbsp; Cursando Eng. de Software na PUC Campinas
-- 💼 &nbsp; Trabalho na UAUBox como Engenheiro de Software
+- 💼 &nbsp; Trabalho no Zé Delivery como Engenheiro de Software - Pleno II
 - 💼 &nbsp; Fundador da <a href="https://petus.app/">Petus</a>
 
 <h3>🛠 Tech</h3>
 
-- 💻 &nbsp; JS, TS, NodeJS, PHP
-- 🌐 &nbsp; HTML | CSS | JavaScript | React (aprendendo ainda)
-- 🛢 &nbsp; SQL (Uso mais Postgres) | NoSQL (MongoDB)
+- 💻 &nbsp; JS, TS, NodeJS, PHP, Python
+- 🌐 &nbsp; HTML | CSS | JavaScript | React
+- 🛢 &nbsp; SQL (PostgreSQL, MySQL) | NoSQL (MongoDB)
 
 <h3>💻 Redes</h3>
 
