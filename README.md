@@ -6,13 +6,13 @@
 
 - 🔭 &nbsp; Estou atualmente trabalhando com Python, NodeJS (TypeScript)
 - 🤔 &nbsp; Explorando novas tecnologias e testando coisas o tempo todo
-- 🎓 &nbsp; Cursando Eng. de Software na PUC Campinas
-- 💼 &nbsp; Trabalho no Zé Delivery como Engenheiro de Software - Pleno II
+- 🎓 &nbsp; Cursando Psicologia na Universidade São Francisco
+- 💼 &nbsp; Trabalho no Nubank como Software Engineer
 - 💼 &nbsp; Fundador da <a href="https://petus.app/">Petus</a>
 
 <h3>🛠 Tech</h3>
 
-- 💻 &nbsp; JS, TS, NodeJS, PHP, Python
+- 💻 &nbsp; JS, TS, NodeJS, PHP, Python, Clojure
 - 🌐 &nbsp; HTML | CSS | JavaScript | React
 - 🛢 &nbsp; SQL (PostgreSQL, MySQL) | NoSQL (MongoDB)
 
